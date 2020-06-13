@@ -18,9 +18,11 @@ const Dev = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: white;
-  color: black;
+  background: red;
+  color: white;
   box-shadow: 0 0 9px rgba(0,0,0,0.25);
+  border-radius: 7px;
+  margin: 0 7px;
 `;
 
 function App() {
